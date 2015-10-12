@@ -1,0 +1,5 @@
+channel: LOCAL/3998
+context: announce
+Extension: lockdown
+Priority: 1
+callerid: LOCKDOWN <3000>
